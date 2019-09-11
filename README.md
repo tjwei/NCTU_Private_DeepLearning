@@ -1,4 +1,6 @@
 # NCTU_Private_DeepLearning
+## Labs
+* Week 1: https://github.com/tjwei/NCTU_Private_DeepLearning/blob/master/Week_1_Differential_Privacy.ipynb
 
 ## Resources
 * My slides: https://docs.google.com/presentation/d/1J76Wx3dgwJsiBjqaBfmm4vKk-WRpXYA0ZQRZWZha0Kw/edit?usp=sharing
